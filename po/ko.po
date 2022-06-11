@@ -1,6 +1,7 @@
 # Korean translation for gnome-boxes.
 # This file is distributed under the same license as the gnome-boxes package.
 # Seong-ho Cho <shcho@gnome.org>, 2012-2022.
+# Junghee Lee <daemul72@gmail.com>, 2022.
 #
 # 번역에 참여하신 분께서는
 # 상단 주석에 다음과 같은 형식으로
@@ -162,7 +163,7 @@ msgstr "첫 실행"
 
 #: data/org.gnome.boxes.gschema.xml:46
 msgid "Whether Boxes is running for the first time"
-msgstr "박스를 처음으로 실행하는 지 여부"
+msgstr "박스가 처음으로 실행되는지 여부"
 
 #: data/org.gnome.boxes.gschema.xml:53
 msgid "Shared folders"
@@ -268,7 +269,7 @@ msgstr "준비중…"
 
 #: data/ui/assistant/pages/preparation-page.ui:24
 msgid "Preparing to create a new box"
-msgstr "새 박스 만들기 준비중"
+msgstr "새 박스를 만들기 위해 준비하는 중"
 
 #: data/ui/assistant/pages/review-page.ui:5
 msgid "Review and Create"
@@ -276,7 +277,7 @@ msgstr "검토하고 만들기"
 
 #: data/ui/assistant/pages/review-page.ui:18
 msgid "Boxes is ready to set up a new box with the following properties:"
-msgstr "다음 속성을 따라 새 박스 구성을 준비했습니다:"
+msgstr "다음 속성으로 새 박스를 설정할 준비가 되었습니다:"
 
 #: data/ui/assistant/pages/review-page.ui:45
 msgid ""
@@ -312,7 +313,7 @@ msgstr "암호"
 
 #: data/ui/assistant/pages/review-page.ui:140
 msgid "Enable EFI"
-msgstr "EFI 사용"
+msgstr "EFI 사용가능"
 
 #: data/ui/assistant/pages/setup-page.ui:5 data/ui/welcome-tutorial.ui:49
 msgid "Express Installation"
@@ -410,7 +411,7 @@ msgstr "검색"
 #: data/ui/kbd-shortcuts-window.ui:57
 msgctxt "shortcut window"
 msgid "Keyboard shortcuts"
-msgstr "키보드 바로 가기 키"
+msgstr "키보드 단축키"
 
 #: data/ui/kbd-shortcuts-window.ui:65 data/ui/kbd-shortcuts-window.ui:157
 msgctxt "shortcut window"
@@ -454,7 +455,7 @@ msgstr "최대 화면/최대 화면에서 복귀"
 
 #: data/ui/menus.ui:7
 msgid "Keyboard Shortcuts"
-msgstr "키보드 바로 가기 키"
+msgstr "키보드 단축키"
 
 #: data/ui/menus.ui:11
 msgid "Help"
@@ -672,7 +673,7 @@ msgstr "스크린샷 찍기"
 
 #: src/actions-popover.vala:65
 msgid "Force Shutdown"
-msgstr "강제로 끄기"
+msgstr "강제로 시스템 끄기"
 
 #: src/actions-popover.vala:76
 msgid "Clone"
